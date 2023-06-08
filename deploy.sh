@@ -1,2 +1,2 @@
 yarn build
-rsync  -r --progress  dist   me:~/app/HomePage/dist/Majiang/
+rsync  -r --progress  dist/*   me:~/app/MyStatic/Majiang/
